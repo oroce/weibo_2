@@ -21,5 +21,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'oauth2', "~> 0.9.1"
   gem.add_runtime_dependency 'hashie', "~> 3.4.4"
   gem.add_runtime_dependency 'multi_json'  , "~> 1"
-  gem.add_runtime_dependency 'rest-client', "~> 1.7.3"
+  gem.add_runtime_dependency 'rest-client', "~> 1.8.0"
 end
